@@ -3,3 +3,4 @@
     Great when requirements are uncertain and allows stakeholders to see progress and easier for individuals to collaborate with eachother.
     One con is that it is difficult to figure out how much to allocate to the project. Things like time or money are difficult to allocate.
     It is difficult to manage longer/larger projects because Agile is mainly focused on short term effects.
+(b) The product owner determines what to build whereas the Scrum Master determins how it is built. The scrum masters can add blocks and create issues that need to be worked on.
