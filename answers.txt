@@ -15,3 +15,12 @@
     Sprint Review
     - Demo the project
     - Reflects on past stuff to improve
+(d) Differentiate between Epic Story Bug and Task issue types in Jira
+    Epic
+    - A large amount of work that contains stories and tasks and spans between multiple sprints
+    Story
+    - A feature meant for the user that is meant to be completed in one sprint
+    Bug
+    - Issue in software that the devs need to fix 
+    Task
+    - A specific thing that devs need to work on
